@@ -1,2 +1,2 @@
-# http-server
+# Http-Server
 Simple Http Server
